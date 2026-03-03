@@ -1,0 +1,6 @@
+db-dtypes
+google-auth
+google-cloud-bigquery
+gspread
+ipykernel
+pandas
